@@ -1,4 +1,6 @@
-### Olá! Sou o Rafael Souto 👋
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=4000&color=FFFF&center=true&vCenter=true&width=500&height=64&lines=Hey%2C+I'm+RafaelSouto!" alt="Typing SVG" /></a>
+</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafaelsoutoo/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-souto-sena-3a8364257/) [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]()<br/>
 
